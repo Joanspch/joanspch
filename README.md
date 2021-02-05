@@ -1,3 +1,5 @@
+
+<div align='center'>
 ### Hi there!, I'm [Joan](https://github.com/joanspch) 
 
 
@@ -50,5 +52,5 @@ Swift Developer experienced in designing and developing custom applications.Work
   </a>
 
 </div>
-
+</div>
 
