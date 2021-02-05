@@ -14,6 +14,7 @@ Swift Developer experienced in designing and developing custom applications.Work
 ### 🛠️ Languages and Tools:
 
 <div align='center'>
+  
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
@@ -29,6 +30,7 @@ Swift Developer experienced in designing and developing custom applications.Work
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+
 </div>
 
   
