@@ -1,5 +1,4 @@
 
-<div align='center'>
 ### Hi there!, I'm [Joan](https://github.com/joanspch) 
 
 
@@ -13,6 +12,8 @@ Swift Developer experienced in designing and developing custom applications.Work
 <div align='center'>
   
 ### 🛠️ Languages and Tools:
+
+<div align='center'>
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
