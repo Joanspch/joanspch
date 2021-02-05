@@ -1,12 +1,15 @@
 ### Hi there!, I'm [Joan](https://github.com/joanspch) 
 
-<br/>
+![top doodle](/image/top.png)
 
+<div align='center'>
 <p>
 Swift Developer experienced in designing and developing custom applications.Works well independently as a freelancer and in teams of all sizes. Anticipates customer needs and meets project requirements. Skilled in cross-cultural communication. Natural learner, sociable and proactive ❤️.
 </p>
+</div>
 
-
+<div align='center'>
+  
 ### 🛠️ Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,7 +26,10 @@ Swift Developer experienced in designing and developing custom applications.Work
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+</div>
 
+<div align='center'>
+  
 ##Preferences to work
 
 <div align='center'>
@@ -47,7 +53,7 @@ Swift Developer experienced in designing and developing custom applications.Work
 
 </div>
 
+</div>
 
-
-----------------------------------------------------------
+![bottom doodle](/image/bottom.png)
 
