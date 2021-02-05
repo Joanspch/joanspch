@@ -1,6 +1,6 @@
 ### Hi there!, I'm [Joan](https://github.com/joanspch) 
 
-![top doodle](/image/top.png)
+
 
 <div align='center'>
 <p>
@@ -54,6 +54,4 @@ Swift Developer experienced in designing and developing custom applications.Work
 </div>
 
 </div>
-
-![bottom doodle](/image/bottom.png)
 
