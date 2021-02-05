@@ -30,8 +30,7 @@ Swift Developer experienced in designing and developing custom applications.Work
 
 <div align='center'>
   
-##Preferences to work
-
+## Preferences to work : 
 <div align='center'>
 
   <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&style=flat-square&logo=apple' />
