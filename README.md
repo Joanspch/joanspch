@@ -28,7 +28,6 @@ Swift Developer experienced in designing and developing custom applications.Work
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 </div>
 
-<div align='center'>
   
 ## Preferences to work : 
 <div align='center'>
@@ -52,5 +51,4 @@ Swift Developer experienced in designing and developing custom applications.Work
 
 </div>
 
-</div>
 
